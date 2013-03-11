@@ -2,7 +2,7 @@
 # Cookbook Name:: tomcat6
 # Recipe:: default
 #
-# Copyright 2012, FOX Sports 2Go - Operations
+# 
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
